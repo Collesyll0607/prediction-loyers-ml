@@ -1,3 +1,9 @@
+﻿> 🌐 **Démo Interactive Déployée en Ligne :** [**https://collesyll0607.github.io/prediction-loyers-ml/**](https://collesyll0607.github.io/prediction-loyers-ml/)
+>
+> 👩‍💻 **Portfolio de l'Auteure (Collé Syll) :** [https://collesyll0607.github.io/](https://collesyll0607.github.io/)
+
+---
+
 # Prédiction des Prix de Location Immobilière — Machine Learning (UASZ AI Community)
 
 **Auteure** : Collé Syll — Licence 3 Ingénierie Informatique, Université Assane Seck de Ziguinchor (UASZ)  
@@ -21,3 +27,4 @@ python generate_and_train.py
 # 2. Exécuter les tests unitaires
 python -m unittest test_pipeline_ml.py -v
 ```
+
