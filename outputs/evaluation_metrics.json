@@ -1,0 +1,16 @@
+{
+  "n_samples": 850,
+  "n_train": 663,
+  "n_test": 187,
+  "r2_score": 0.7804,
+  "mae_fcfa": 119120.0,
+  "rmse_fcfa": 147249.0,
+  "top_features": {
+    "surface_m2": 0.6071,
+    "quartier_Escale Ziguinchor": 0.0823,
+    "quartier_Parcelles": 0.0657,
+    "nb_pieces": 0.0616,
+    "quartier_Almadies": 0.0519,
+    "distance_transport_km": 0.0367
+  }
+}
