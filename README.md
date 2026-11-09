@@ -1,12 +1,16 @@
-# Prédiction des Prix de Location Immobilière — Machine Learning
+# Prédiction des Prix de Location Immobilière — Machine Learning (UASZ AI Community)
 
-**Auteure** : Collé Syll — Licence 3 Ingénierie Informatique (UASZ)  
+**Auteure** : Collé Syll — Licence 3 Ingénierie Informatique, Université Assane Seck de Ziguinchor (UASZ)  
+**Cadre** : Projet collaboratif Machine Learning — **UASZ AI Community**  
 **Technologies** : `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `Random Forest`
 
 ## Présentation
-Développement d'un pipeline de Machine Learning supervisé permettant de prédire les loyers mensuels immobiliers à partir des caractéristiques des logements (`surface_m2`, `nb_pieces`, `nb_salles_bain`, `quartier`, `meuble`, `neuf_ou_renove`, `distance_transport_km`).
+Développement collaboratif au sein de l'**UASZ AI Community** d'un pipeline de Machine Learning supervisé permettant de prédire les loyers mensuels immobiliers à partir des caractéristiques des logements (`surface_m2`, `nb_pieces`, `nb_salles_bain`, `quartier`, `meuble`, `neuf_ou_renove`, `distance_transport_km`).
 
-Le modèle **Random Forest Regressor** entraîné et évalué sur l'échantillon de test atteint un coefficient de détermination **$R^2 \approx 0,77$**.
+Le projet couvre l'ensemble du cycle de vie Data Science :
+1. **Traitement et nettoyage des données** avec `Pandas` et `NumPy`.
+2. **Entraînement supervisé** d'un modèle ensembliste **Random Forest Regressor** avec `Scikit-learn`.
+3. **Évaluation statistique** : coefficient de détermination **$R^2 \approx 0,77$** sur le jeu de test.
 
 ## Exécution rapide
 
